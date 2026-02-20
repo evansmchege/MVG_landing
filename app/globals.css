@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root{
+  --dark-color: '#222831';
+  --white: '#FFFFFF';
+  --primary-blue: '#558BE2';
+  --deep-green: '#617F09' ;
+  --normal-green: '#8CB800';
+  --lemon-green: '#C1EA47';
+  --light-lemon: '#E5FE9C';
+  --outline-green: '#BBCB8E';
+  --fade-green: '#D4E8B6';
+  --primary-Pink: '#FF4994';
+  --light-pink: '#FF9FC6';
+  --faded-pink: '#FFB7D5';
+  --outline-gray: '#DADADA';
+  --light-gray: '#ECEFE6';
+}
